@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="qqq" type="PLAIN_TEXT" />
+      <mapping pattern="firstTag" type="PLAIN_TEXT" />
+      <mapping pattern="77" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
+      <mapping pattern="log4j" type="Properties" />
+      <mapping pattern="StudentMapper" type="XML" />
+    </extensionMap>
+  </component>
+</application>
