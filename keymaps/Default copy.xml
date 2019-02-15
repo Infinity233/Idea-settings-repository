@@ -1,21 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateMavenProjectsToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-  </action>
-  <action id="ExtractMethod">
-    <keyboard-shortcut first-keystroke="ctrl alt w" />
-  </action>
-  <action id="NewClass">
+  <action id="EditorSelectWord" />
+  <action id="Go.NewGoFile">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="NewDir">
@@ -23,8 +11,5 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt l" />
-  </action>
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="alt a" />
   </action>
 </keymap>

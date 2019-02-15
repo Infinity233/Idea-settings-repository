@@ -1,8 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <default_templates>
-      <template name="Mapper.xml.xml" reformat="true" live-template-enabled="true" />
-      <template name="MyBatis-config.xml.xml" reformat="true" live-template-enabled="true" />
-    </default_templates>
-  </component>
-</application>
