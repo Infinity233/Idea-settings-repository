@@ -7,6 +7,7 @@
       <mapping pattern="firstTag" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping pattern="StudentMapper" type="XML" />
       <mapping pattern="log4j" type="Properties" />
     </extensionMap>
