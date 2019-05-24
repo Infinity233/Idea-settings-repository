@@ -5,6 +5,7 @@
       <mapping pattern="qqq" type="PLAIN_TEXT" />
       <mapping pattern="77" type="PLAIN_TEXT" />
       <mapping pattern="firstTag" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
